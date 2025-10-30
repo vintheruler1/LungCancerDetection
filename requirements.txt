@@ -1,0 +1,34 @@
+# Core machine learning and deep learning
+tensorflow>=2.12.0
+keras>=2.12.0
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+
+# Image processing
+opencv-python>=4.5.0
+Pillow>=8.3.0
+
+# Data visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Excel processing for pixel data
+openpyxl>=3.0.9
+xlsxwriter>=3.0.0
+
+# Progress bars and utilities
+tqdm>=4.62.0
+
+# For better model performance
+efficientnet>=1.0.0
+
+# Optional: For GPU support (uncomment if you have NVIDIA GPU)
+# tensorflow-gpu>=2.12.0
+
+# Development and testing
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# For better plotting in Jupyter
+ipywidgets>=7.6.0
